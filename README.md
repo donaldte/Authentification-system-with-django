@@ -7,5 +7,7 @@ This a full authentification system when the user create an account, the system 
 The User need to confirm his email before he/she can get access into the system. If by curriosity the user try to login the system without email has been confirm,
 we remember the user to go and confirm his email address.
 
+We can continue by set the expired date of the confirm email address.
+
 For this project you have all the requirements inside requirements.txt file.
 
